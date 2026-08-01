@@ -48,7 +48,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link | 
 | :---: | :---: | :---: | 
-| 01 | Introduction to Logisim Evolutino | [Lab 01](https://github.com/PREETOM-CHAKRABARTTY/DT_lab_reports-2410049-/blob/main/Lab_reports/Lab01.md)|
+| 01 | Introduction to Logisim Evolution | [Lab 01](https://github.com/PREETOM-CHAKRABARTTY/DT_lab_reports-2410049-/blob/main/Lab_reports/Lab01.md)|
 
 </div>
 
