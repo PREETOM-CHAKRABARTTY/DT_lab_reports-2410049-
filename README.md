@@ -49,6 +49,8 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link | 
 | :---: | :---: | :---: | 
 | 01 | Introduction to Logisim Evolution | [Lab 01](https://github.com/PREETOM-CHAKRABARTTY/DT_lab_reports-2410049-/blob/main/Lab_reports/Lab01.md)|
+| 03 | Logic circuit diagram simulation from Boolean expression | [Lab 03](https://github.com/PREETOM-CHAKRABARTTY/DT_lab_reports-2410049-/blob/main/Lab_reports/lab-03.md)|
+
 
 </div>
 
